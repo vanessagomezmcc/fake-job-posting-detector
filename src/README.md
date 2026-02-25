@@ -2,7 +2,7 @@
 
 A machine learning web application that detects fraudulent job postings using Natural Language Processing (NLP) and Logistic Regression.
 
-🔗 **Live App:** (Add your deployed Streamlit link here)
+🔗 **Live App:** https://fake-job-posting-detector-vanessagomezmc.streamlit.app/
 
 ---
 
